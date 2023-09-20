@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #8ad6d6;
+}
+.App{
+  position: absolute;
+    top: 35%;
+    left: 40%;
+    transform: translate(-50px, -50px);
+}
+h2{
+  font-size: 47px;
+    color: blue;
+    font-weight: 300;
+}
+label{
+  font-size: 19px;
+}
+input{
+  border: 1px solid black;
+    border-radius: 6px;
+    height: 4vh;
+    margin-left: 16px;
+    margin-bottom: 10px;
+}
+.select{
+  border: 1px solid black;
+    border-radius: 6px;
+    width: 75px;
+    margin-left: 10px;
+    height: 4vh;
+    background-color: aquamarine;
+}
+
+button{
+  margin-top: 24px;
+    width: 113px;
+    height: 6vh;
+    border: 1px solid black;
+    border-radius: 9px;
+    background-color: cornflowerblue;
+    font-size: initial;
+    color: white;
+}
+
